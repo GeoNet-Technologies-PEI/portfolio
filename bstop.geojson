@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "bstop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Id": 1, "Name": "Corner of Fifth St & Fourth St" }, "geometry": { "type": "Point", "coordinates": [ -63.823558454807149, 46.437469670065681 ] } },
+{ "type": "Feature", "properties": { "Id": 2, "Name": "Corner of Fourth St & Seventh St" }, "geometry": { "type": "Point", "coordinates": [ -63.820624249182735, 46.436341971635393 ] } },
+{ "type": "Feature", "properties": { "Id": 3, "Name": "Corner of Seventh St & Argus Av" }, "geometry": { "type": "Point", "coordinates": [ -63.821822748096992, 46.434082195363466 ] } },
+{ "type": "Feature", "properties": { "Id": 3, "Name": "Atlantic Police Academy" }, "geometry": { "type": "Point", "coordinates": [ -63.824713889509503, 46.434217227214347 ] } },
+{ "type": "Feature", "properties": { "Id": 4, "Name": "Slemon Park Plaza" }, "geometry": { "type": "Point", "coordinates": [ -63.828240775473986, 46.432798297927313 ] } }
+]
+}
